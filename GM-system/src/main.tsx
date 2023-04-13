@@ -7,7 +7,7 @@ import "reset-css";
 
 //全局样式
 import "@/assets/styles/global.scss";
-import "@/";
+
 //组件的样式
 import App from "./App";
 
